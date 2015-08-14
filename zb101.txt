@@ -1,4 +1,5 @@
 第一組：新球崛起
+資料來源：中國時報，自由時報，蘋果日報
 
 Python-Gevent
 
@@ -22,18 +23,20 @@ WEB
   View
   Templeate
   URL Display
- D3JS
+  D3JS
 
 
 第二組：CoCo Stock
 股票預測與籌碼的分析預測
+利用“經緯度”偵測區域內的證交所
 
-QGIS 空間分析軟體， 經緯度
+QGIS 空間分析軟體（經緯度）
 裁減？
 支援python
 
 驗證碼
  open cv —> OCR
+
 Flash Button
  selenium, pyAutoGUI
 
@@ -49,10 +52,11 @@ WEB
 Index 加速資料萃取？
 
 第三組：輿情
+PTT推文頻率
 
 WEB
  Django
-  paytagcloud
+   paytagcloud
  Ajax：區域性更新資料
 
 斷詞
@@ -65,7 +69,9 @@ WEB
  agglomerative clustering
  DBSCAN
 
+
 第四組：Justisys
+車禍案件判定
 
 ETL
 斷詞：刪除不必要文字，找同義詞，分類，辭典
